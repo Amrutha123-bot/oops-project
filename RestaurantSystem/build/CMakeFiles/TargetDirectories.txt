@@ -1,0 +1,3 @@
+/workspaces/oops-project/RestaurantSystem/build/CMakeFiles/RestaurantSystem.dir
+/workspaces/oops-project/RestaurantSystem/build/CMakeFiles/edit_cache.dir
+/workspaces/oops-project/RestaurantSystem/build/CMakeFiles/rebuild_cache.dir
